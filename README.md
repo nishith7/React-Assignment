@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `node index.js`
 
-## 2. Now run the react app moving to client folder by running below command
+## 3. Now run the react app moving to client folder by running below command
 
 ### `npm start`
 
